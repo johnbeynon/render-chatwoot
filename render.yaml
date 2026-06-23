@@ -52,7 +52,7 @@ databases:
   - name: chatwoot-postgres
     databaseName: chatwoot_production
     user: chatwoot
-    plan: basic-256mb
+    plan: Pro-4gb
     postgresMajorVersion: "15"
     ipAllowList: []
 
